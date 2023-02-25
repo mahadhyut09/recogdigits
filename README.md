@@ -1,1 +1,1 @@
-# recogdigits
+# Hand written digits recognition
